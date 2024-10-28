@@ -1,0 +1,12 @@
+@import "@assets/style/theme";
+
+.canvasStyle {
+  top: 0;
+  left: 0;
+  position: absolute;
+  inset: 0;
+  opacity: 0.5;
+  transition: opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 99999999999999999999999999 !important;
+  overflow: hidden;
+}

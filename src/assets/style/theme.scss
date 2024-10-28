@@ -1,0 +1,52 @@
+/* global.css */
+
+
+/* Obviously-Bold */
+@font-face {
+  font-family: "Obviously-Bold";
+  src: url("../../assets/font/Obviously-Bold.woff2") format("woff2"),
+  url("../../assets/font/Obviously-Bold.woff") format("woff"),
+  url("../../assets/font/Obviously-bold.ttf") format("truetype");
+}
+
+/* Obviously-Light */
+@font-face {
+  font-family: "Obviously-Light";
+  src: url("../../assets/font/Obviously-Light.woff2") format("woff2"),
+  url("../../assets/font/Obviously-Light.woff") format("woff"),
+  url("../../assets/font/Obviously-light.ttf") format("truetype");
+}
+
+/* Obviously-Medium */
+@font-face {
+  font-family: "Obviously-Medium";
+  src: url("../../assets/font/Obviously-Medium.woff2") format("woff2"),
+  url("../../assets/font/Obviously-Medium.woff") format("woff"),
+  url("../../assets/font/Obviously-Medium.ttf") format("truetype");
+}
+
+/* Obviously-Regular */
+@font-face {
+  font-family: "Obviously";
+  src: url("../../assets/font/Obviously-Regular.woff2") format("woff2"),
+  url("../../assets/font/Obviously-Regular.woff") format("woff"),
+  url("../../assets/font/Obviously-Regular.ttf") format("truetype");
+}
+
+/* Obviously-Semibold */
+@font-face {
+  font-family: "Obviously-Semibold";
+  src: url("../../assets/font/Obviously-Semibold.woff2") format("woff2"),
+  url("../../assets/font/Obviously-Semibold.woff") format("woff"),
+  url("../../assets/font/Obviously-Semibold.ttf") format("truetype");
+}
+
+
+
+/* Obviously-Wide-Regular */
+@font-face {
+  font-family: "Obviously-Wide-Regular";
+  src: url("../../assets/font/Obviously-Wide-Regular.woff2") format("woff2"),
+  url("../../assets/font/Obviously-Wide-Regular.woff") format("woff"),
+  url("../../assets/font/Obviously-Wide-Regular.ttf") format("truetype");
+}
